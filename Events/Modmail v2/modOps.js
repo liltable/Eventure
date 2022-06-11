@@ -160,11 +160,11 @@ await DB.findOne({ChannelID: interaction.channel.id}, async (err, data) => {
             .setTimestamp()
             .addFields(
               {name: "Reason Created", value: data.Reason},
-              {name: "Date Created", value: `<t:${parseInt(data.Time)}:R>`, inline: false},
+              {name: "Date Created", value: `<t:${parseInt(data.Time)}:R>`, inline: true},
               {name: "Locked?", value: `${data.Locked}`},
-               {name: "Closed?", value: `${data.Closed}`, inline: false},
+               {name: "Closed?", value: `${data.Closed}`, inline: true},
               {name: "User ID", value: `${data.UserID}`},
-              {name: "Channel ID", value: `${data.ChannelID}`, inline: false},
+              {name: "Channel ID", value: `${data.ChannelID}`, inline: true},
               {name: "Guild", value: `${data.GuildName}`},
               {name: "Guild ID", value: `${data.GuildID}`}
             )
