@@ -1,0 +1,37 @@
+{
+  "database": "mongodb+srv://admin:1000206104373@north.wstbw.mongodb.net/North?retryWrites=true&w=majority",
+
+  "loggerid": "959857653893435512",
+  "loggertoken": "Y48wBTWPYebFwuCN38ZLMG4-gsMhn_OE3fSAQk2Zls6pY-ysTEcl--dXGXT-WIpNy6TP",
+  
+  "announcerid": "960326477101027341",
+  "announcertoken": "y_8U_6NQVbm6-GnFiC-gfoadaFS2B7JeVR0mL5bxX5m1926o2IqD_6-Cw249R6If0SN2",
+
+  "lobbyid": "959858206291681350",
+  "lobbytoken": "AU8SWJfGDQxJKcmCYjj5NqGKhZlGoGx8J989AK2Fg6A-LMZwvu76lxp7fG08_vSsxW_g",
+
+  "updateid": "959858386499940372",
+  "updatetoken": "KYX5_L3AsyOKTRnyWyjPOvyqVxbtf1zghw3IUq53GVaeCnsxCgj-PTj5mAmaHsY-nGio",
+
+  "readyid": "963071585382703165",
+  "readytoken": "HM36YuaxjNSW3lzbSV0Dabs_02EOp1maSGY0kCJMUklizbgYALcWBddJPvYWkC5bo4Qd",
+
+  "createvc": "963082955192954962",
+
+  "mailid": "963160603197841540",
+  "mailtoken": "5LdBaxoJZmBn1vN1kzGZ3mWWWCwPR1ShRAc8Tz1igqIL7r_mpIewystCCPlnjUrvPMl4",
+  "mailchannel": "963160514974863440",
+  "modcategory": "952722895027724388",
+
+  "everyoneid": "948961051720949790",
+
+  "crashid": "963071585382703165",
+  "crashtoken": "HM36YuaxjNSW3lzbSV0Dabs_02EOp1maSGY0kCJMUklizbgYALcWBddJPvYWkC5bo4Qd",
+
+  "smpid": "970357575990280252",
+  "smptoken": "8_X1AwJrUyhZNWqn_TyugQLDnDCQUggmyPXYIpSgYVf5mio0F2sXtKThIrusXpRXYNF8",
+
+  "MMPARENTID": "983092382255947776",
+  "MMEVERYONE": "948961051720949790",
+  "ARCHIVESID": "983092400350199839"
+}
